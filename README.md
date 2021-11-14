@@ -10,9 +10,7 @@
 - 📫 How to reach me ... https://www.linkedin.com/in/harry-watson-comp/
 - 🔭 I’m currently working on my own website
 
-<strong>Skills: C# Python HTML CSS SQL</strong>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BeeWeak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harry-watson-comp//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100005791364840)  
+<strong>Skills: C# // Python // HTML // CSS // SQL</strong>
 
 <h1>About me</h1>
 
@@ -22,3 +20,5 @@ Ever since I was young, I have been intrigued by how computers work and what mak
 
 
 [![BeeWeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeeWeak&show_icons=true&theme=tokyonight)](https://github.com/BeeWeak/github-readme-stats)
+
+              
