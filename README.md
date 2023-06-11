@@ -12,4 +12,4 @@
 
 <h1>About me</h1>
 
-Experienced Telephone Interviewer with a passion for Cyber Security, software, and web development. I have just finished studying at Exeter College within the field of Computing studying a Level 5 Higher National Diploma. I have a keen interest in blue and red skillsets within cyber security, especially security that relates to web forms and cloud computing. Looking for any experience within the field to enhance my skills and take my learning further.
+Experienced Telephone Interviewer with a passion for Cyber Security, software, and web development. I have just finished studying at Exeter College within the field of Computing studying a Level 5 Higher National Diploma.
