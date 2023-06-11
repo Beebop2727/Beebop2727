@@ -10,6 +10,3 @@
 
 <strong>Skills: C# // Python // HTML // CSS // SQL</strong>
 
-<h1>About me</h1>
-
-Experienced Telephone Interviewer with a passion for Cyber Security, software, and web development. I have just finished studying at Exeter College within the field of Computing studying a Level 5 Higher National Diploma.
