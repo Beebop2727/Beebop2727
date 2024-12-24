@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Harry and I'm an IT professional from the United Kingdom 🇬🇧<br><br>I have a huge interest in Cyber Security, Web Development, and the continual advancement of technology<br><br>I am currently working on my skills with Python to go back to Bournemouth University to study BSc (Hons) in Cyber Security and Digital Forensics 🖥️<br><br>Loving automating tasks with Python, looking at finding ways to make my life easier in my current job</p>
+<p align="left">My name is Harry and I'm an <b>IT professional</b> from the United Kingdom 🇬🇧<br><br>I have a huge interest in Cyber Security, Web Development, and the continual advancement of technology<br><br>I am currently working on my skills with <b>Python</b> to go back to Bournemouth University to study BSc (Hons) in Cyber Security and Digital Forensics 🖥️<br><br>Loving automating tasks with Python, looking at finding ways to make my life easier in my current job</p>
 
 ###
 
