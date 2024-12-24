@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!  👋</h1>
+<h1 align="left">Hello World! 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br><br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br><br>- 🔭 I’m working as Level 1 IT Service Desk Operator for the NHS</br><br>⚡ In my free time I like to hang out and drink coffee</br><br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
 
 ###
 
@@ -32,7 +32,9 @@
   <a href="https://www.linkedin.com/in/harry-watson-computing/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://discord.com/users/Beebop__#8913" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
