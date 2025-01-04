@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br>🔭 I’m working as a Level 1 IT Service Desk Operator for the NHS<br>⚡ In my free time I like to hang out and drink coffee<br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br>🔭 I’m working as a Level 1 IT Service Desk Operator for the NHS<br>⚡ In my free time I like to drink lots and lots of coffee<br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
 
 ###
 
