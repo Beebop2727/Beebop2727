@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Harry and I'm an <b>IT professional</b> from the United Kingdom 🇬🇧<br><br>I have a huge interest in Cyber Security, Web Development, and the continual advancement of technology<br><br>I am currently working on my skills with <b>Python</b> to go back to Bournemouth University to study <b>BSc (Hons) in Cyber Security and Digital Forensics</b> 🖥️<br><br>Loving automating tasks with Python, looking at finding ways to make my life easier in my current job</p>
+<p align="left">My name is Harry and I'm a <b>Cyber Security Student</b> from the United Kingdom 🇬🇧<br><br>I have a huge interest in red and blue team operations, Web Development, and the continual advancement of technology<br><br>I am currently working on my skills with <b>Python</b> which I am applying at Bournemouth University studying <b>BSc (Hons) in Cyber Security and Digital Forensics</b> 🖥️<br><br>Loving automating tasks with Python, looking at finding ways to make my life easier in my current job</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br>🔭 I’m working as a Level 1 IT Service Desk Operator for the NHS<br>⚡ In my free time I like to drink lots and lots of coffee<br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br>🔭 I was working as a Level 1 IT Service Desk Operator for the NHS before university<br>⚡ In my free time I like to drink lots and lots of coffee<br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
 
 ###
 
