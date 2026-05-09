@@ -1,56 +1,81 @@
-<h1 align="left">Hello World! 👋</h1>
+<h1 align="center">Hey, I'm Harry 👋</h1>
 
-###
+<p align="center">
+  <b>Cyber Security & Digital Forensics Student</b> based in Bournemouth, UK
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/harry-watson-computing/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contact via LinkedIn for now"><img src="https://img.shields.io/badge/Student-Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛡️ About Me
 
-<p align="left">My name is Harry and I'm a <b>Cyber Security Student</b> from the United Kingdom 🇬🇧<br><br>I have a huge interest in red and blue team operations, Web Development, and the continual advancement of technology<br><br>I am currently working on my skills with <b>Python</b> which I am applying at Bournemouth University studying <b>BSc (Hons) in Cyber Security and Digital Forensics</b> 🖥️<br><br>Loving automating tasks with Python, looking at finding ways to make my life easier in my current job</p>
+I'm a **Cyber Security and Digital Forensics** student with a growing passion for building secure, practical applications. I enjoy working across the stack — from designing AR experiences to locking down backend authentication and exploring how digital evidence tells a story.
 
-###
+- 🔐 Currently studying security concepts, threat analysis & incident response
+- 🌐 Also building web apps and experimenting with **Augmented Reality**
+- 🚀 Open to collaboration, internships, and learning opportunities
+- 📍 Based in **Bournemouth, UK**
 
-<h2 align="left">Interests</h2>
+---
 
-###
+### 🧰 Tech Stack
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more on Python automation<br>🎯 Goals: Future Cyber Security Researcher<br>🔭 I was working as a Level 1 IT Service Desk Operator for the NHS before university<br>⚡ In my free time I like to drink lots and lots of coffee<br>📫 How to reach me https://www.linkedin.com/in/harry-watson-computing/</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
-###
+---
 
-<h2 align="left">My Socials 💬</h2>
+### 📌 Featured Projects
 
-###
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**SurveyingAR**](https://github.com/avidh7/SurveyingAR) | AR-assisted maintenance system for the London Underground | Node.js, Prisma, Vite, WebXR |
+| [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | Front-end mock-up built for a coursework assignment | HTML, CSS |
+| [**Responsive-navbar**](https://github.com/Beebop2727/Responsive-navbar) | Clean, mobile-first responsive navigation component | CSS |
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/harry-watson-computing/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/Beebop__#8913" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+> 🔍 *Browse my full repo list [here](https://github.com/Beebop2727?tab=repositories)*
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Beebop2727&show_icons=true&theme=radical&hide_border=true" alt="Harry's GitHub stats" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beebop2727&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-###
+---
+
+### 🎯 Goals for 2026
+
+- [ ] Earn industry-recognised security certifications
+- [ ] Build and deploy a full-stack app with end-to-end encryption
+- [ ] Contribute to open-source security tools
+- [ ] Land a Cyber Security internship or placement
+
+---
+
+<p align="center">
+  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+</p>
+
+<p align="center">
+  💬 Want to talk security, AR, or collaboration? Reach out on <a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
+</p>
