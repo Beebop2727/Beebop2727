@@ -52,18 +52,6 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beebop2727&show_icons=true&theme=radical&hide_border=true" alt="Harry's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beebop2727&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🎯 Goals for 2026
 
 - [ ] Earn industry-recognised security certifications
