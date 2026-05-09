@@ -44,6 +44,7 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**SurveyingAR**](https://github.com/avidh7/SurveyingAR) | AR-assisted maintenance system for the London Underground | Node.js, Prisma, Vite, WebXR |
+| [**amelia-earhart-chatbot**](https://github.com/oli4406/amelia-earhart-chatbot) | Conversational chatbot built for a software engineering assignment (contributor) | Python / JavaScript |
 | [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | Front-end mock-up built for a coursework assignment | HTML, CSS |
 | [**Responsive-navbar**](https://github.com/Beebop2727/Responsive-navbar) | Clean, mobile-first responsive navigation component | CSS |
 
