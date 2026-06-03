@@ -1,9 +1,7 @@
 <h1 align="center">Hey, I'm Harry 👋</h1>
-
 <p align="center">
   <b>Cyber Security & Digital Forensics Student</b> based in Bournemouth, UK
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harry-watson-computing/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:contact via LinkedIn for now"><img src="https://img.shields.io/badge/Student-Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -11,19 +9,18 @@
 
 ---
 
-### 🛡️ About Me
+### About Me
 
 I'm a **Cyber Security and Digital Forensics** student with a growing passion for building secure, practical applications. I enjoy working across the stack — from designing AR experiences to locking down backend authentication and exploring how digital evidence tells a story.
 
-- 🔐 Currently studying security concepts, threat analysis & incident response
-- 🌐 Also building web apps and experimenting with **Augmented Reality**
-- 🚀 Open to collaboration, internships, and learning opportunities
-- 📍 Based in **Bournemouth, UK**
+- Currently studying security concepts, threat analysis & incident response
+- Also building web apps and experimenting with **Augmented Reality**
+- Open to collaboration, internships, and learning opportunities
+- Based in **Bournemouth, UK**
 
 ---
 
-### 🧰 Tech Stack
-
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -39,7 +36,7 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -48,11 +45,11 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 | [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | Front-end mock-up built for a coursework assignment | HTML, CSS |
 | [**Responsive-navbar**](https://github.com/Beebop2727/Responsive-navbar) | Clean, mobile-first responsive navigation component | CSS |
 
-> 🔍 *Browse my full repo list [here](https://github.com/Beebop2727?tab=repositories)*
+> *Browse my full repo list [here](https://github.com/Beebop2727?tab=repositories)*
 
 ---
 
-### 🎯 Goals for 2026
+### Goals for 2026
 
 - [ ] Earn industry-recognised security certifications
 - [ ] Build and deploy a full-stack app with end-to-end encryption
@@ -64,7 +61,6 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 <p align="center">
   <i>"Security is not a product, but a process." — Bruce Schneier</i>
 </p>
-
 <p align="center">
-  💬 Want to talk security, AR, or collaboration? Reach out on <a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
+  Want to talk security, AR, or collaboration? Reach out on <a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
 </p>
