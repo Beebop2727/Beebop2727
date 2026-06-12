@@ -15,12 +15,14 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 
 - Currently studying security concepts, threat analysis & incident response
 - Also building web apps and experimenting with **Augmented Reality**
+- Working through a 12-month cybersecurity portfolio plan (September–August)
 - Open to collaboration, internships, and learning opportunities
 - Based in **Bournemouth, UK**
 
 ---
 
 ### Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -46,6 +48,27 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 | [**Responsive-navbar**](https://github.com/Beebop2727/Responsive-navbar) | Clean, mobile-first responsive navigation component | CSS |
 
 > *Browse my full repo list [here](https://github.com/Beebop2727?tab=repositories)*
+
+---
+
+### 12-Month Cybersecurity Portfolio — September to August
+
+Working through one project per month to build a public portfolio covering the full spectrum of cybersecurity — from hands-on technical labs to governance, incident response, and a capstone assessment. Each project produces a GitHub repository, write-up, and LinkedIn post.
+
+| Month | Project | Status |
+|-------|---------|--------|
+| September | Personal cyber lab build | 🔜 Upcoming |
+| October | OWASP Top 10 mini-series | 🔜 Upcoming |
+| November | Vulnerability management dashboard | 🔜 Upcoming |
+| December | Healthcare cyber risk register | 🔜 Upcoming |
+| January | Ransomware incident response playbook | 🔜 Upcoming |
+| February | SIEM detection project | 🔜 Upcoming |
+| March | Phishing awareness campaign | 🔜 Upcoming |
+| April | Cloud security baseline | 🔜 Upcoming |
+| May | Digital forensics mini-case | 🔜 Upcoming |
+| June | Secure coding review | 🔜 Upcoming |
+| July | Cybersecurity policy pack | 🔜 Upcoming |
+| August | Cyber resilience capstone | 🔜 Upcoming |
 
 ---
 
