@@ -55,6 +55,8 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 
 Working through one project per month to build a public portfolio covering the full spectrum of cybersecurity — from hands-on technical labs to governance, incident response, and a capstone assessment. Each project produces a GitHub repository, write-up, and LinkedIn post.
 
+> 📁 Full portfolio repo: [cybersecurity-portfolio-year](https://github.com/Beebop2727/cybersecurity-portfolio-year)
+
 | Month | Project | Status |
 |-------|---------|--------|
 | September | Personal cyber lab build | 🔜 Upcoming |
