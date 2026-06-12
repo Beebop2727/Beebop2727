@@ -34,6 +34,12 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </p>
 
 ---
@@ -42,6 +48,7 @@ I'm a **Cyber Security and Digital Forensics** student with a growing passion fo
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**proxmox-workstation-platform**](https://github.com/Beebop2727/proxmox-workstation-platform) | Virtualised workstation platform with GPU passthrough, Ubuntu and Windows VMs, and Raspberry Pi control plane | Proxmox, Linux, VFIO, Bash |
 | [**SurveyingAR**](https://github.com/avidh7/SurveyingAR) | AR-assisted maintenance system for the London Underground | Node.js, Prisma, Vite, WebXR |
 | [**amelia-earhart-chatbot**](https://github.com/oli4406/amelia-earhart-chatbot) | Conversational chatbot built for a software engineering assignment (contributor) | Python / JavaScript |
 | [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | Front-end mock-up built for a coursework assignment | HTML, CSS |
