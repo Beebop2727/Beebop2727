@@ -11,13 +11,16 @@
 
 ### About Me
 
-I'm a **Cyber Security and Digital Forensics** student with a growing passion for building secure, practical applications. I enjoy working across the stack — from designing AR experiences to locking down backend authentication and exploring how digital evidence tells a story.
+I'm a final-year **Cyber Security** with Digital Forensics student at Bournemouth University, with a strong interest in practical security, systems administration, incident response, and secure application development.
 
-- Currently studying security concepts, threat analysis & incident response
-- Also building web apps and experimenting with **Augmented Reality**
-- Working through a 12-month cybersecurity portfolio plan (September–August)
-- Open to collaboration, internships, and learning opportunities
-- Based in **Bournemouth, UK**
+My work spans both software and infrastructure, from developing web and augmented reality projects to building a Proxmox-based virtualized workstation with isolated Linux, Windows, and Parrot OS environments. I enjoy understanding how systems work, identifying where they can fail, and designing solutions that are secure, reliable, and well documented.
+
+Developing practical skills in threat analysis, incident response, digital forensics, networking, and system hardening
+Building and documenting cybersecurity projects for my public portfolio
+Experienced with Linux, Windows, virtualization, web development, and security-focused lab environments
+Interested in SOC, infrastructure, and systems security roles
+Open to graduate opportunities, internships, collaboration, and continued learning
+Based in **Bournemouth, UK**
 
 ---
 
