@@ -43,7 +43,7 @@ Working through one project per month to build a public portfolio covering the f
 
 | Month | Project | Status |
 |-------|---------|--------|
-| September | Personal cyber lab build | 🔜 Upcoming |
+| September | Personal cyber lab build | 🚧 In progress |
 | October | OWASP Top 10 mini-series | 🔜 Upcoming |
 | November | Vulnerability management dashboard | 🔜 Upcoming |
 | December | Healthcare cyber risk register | 🔜 Upcoming |
@@ -63,7 +63,6 @@ Working through one project per month to build a public portfolio covering the f
 - [ ] Earn industry-recognised security certifications
 - [ ] Build and deploy a full-stack app with end-to-end encryption
 - [ ] Contribute to open-source security tools
-- [ ] Land a Cyber Security internship or placement
 
 ---
 
