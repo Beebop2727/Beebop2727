@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Harry 👋</h1>
+<h1 align="center">Welcome, I'm Harry 👋</h1>
 <p align="center">
   <b>Cyber Security & Digital Forensics Student</b> based in Bournemouth, UK
 </p>
