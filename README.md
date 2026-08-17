@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/harry-watson-computing/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:contact via LinkedIn for now"><img src="https://img.shields.io/badge/Student-Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:harry.watson2727@gmail.com"><img src="https://img.shields.io/badge/Student-Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
