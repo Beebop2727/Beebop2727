@@ -61,5 +61,5 @@ Working through one project per month to build a public portfolio covering the f
   <i>"Security is a process, not a product." — Bruce Schneier</i>
 </p>
 <p align="center">
-  Reach out at<a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
+  Reach out on <a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
 </p>
