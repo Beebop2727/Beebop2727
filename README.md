@@ -15,10 +15,6 @@ I'm a final-year **Cyber Security** with Digital Forensics student at Bournemout
 
 My work spans both software and infrastructure, from developing web and augmented reality projects to building a Proxmox-based virtualized workstation with isolated Linux, Windows, and Parrot OS environments. I enjoy understanding how systems work, identifying where they can fail, and designing solutions that are secure, reliable, and well documented.
 
-- Developing practical skills in threat analysis, incident response, digital forensics, networking, and system hardening
-- Building and documenting cybersecurity projects for my public portfolio
-- Experienced with Linux, Windows, virtualization, web development, and security-focused lab environments
-- Interested in SOC, infrastructure, and systems security roles.
 - Open to graduate opportunities, internships, collaboration, and continued learning
 - Based in **Bournemouth, UK**
 
@@ -61,17 +57,9 @@ Working through one project per month to build a public portfolio covering the f
 
 ---
 
-### Goals for 2026
-
-- [ ] Earn industry-recognised security certifications
-- [ ] Build and deploy a full-stack app with end-to-end encryption
-- [ ] Contribute to open-source security tools
-
----
-
 <p align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+  <i>"Security is a process, not a product." — Bruce Schneier</i>
 </p>
 <p align="center">
-  Want to talk security, AR, or collaboration? Reach out on <a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
+  Reach out at<a href="https://www.linkedin.com/in/harry-watson-computing/">LinkedIn</a>.
 </p>
