@@ -20,6 +20,16 @@ My work spans both software and infrastructure, from developing web and augmente
 
 ---
 
+### Recently Updated Repositories
+
+<!-- RECENT-REPOS:START -->
+Repository activity will appear here after the updater's first run.
+<!-- RECENT-REPOS:END -->
+
+<sub>Automatically refreshed every day from my public GitHub repositories.</sub>
+
+---
+
 ### Featured Projects
 
 | Project | Description | Tech |
