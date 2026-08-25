@@ -13,7 +13,7 @@
 
 I'm a final-year **Cyber Security** with Digital Forensics student at Bournemouth University, with a strong interest in practical security, systems administration, incident response, and secure application development.
 
-My work spans both software and infrastructure, from developing web and augmented reality projects to building a Proxmox-based virtualized workstation with isolated Linux, Windows, and Parrot OS environments. I enjoy understanding how systems work, identifying where they can fail, and designing solutions that are secure, reliable, and well documented.
+My work spans both software and infrastructure, from developing web and augmented reality projects to building a Proxmox-based virtualized workstation with isolated Linux, Windows, and Parrot OS environments. I enjoy understanding how systems work, identifying where they can fail, and designing solutions that are secure, reliable, and well-documented.
 
 - Open to graduate opportunities, internships, collaboration, and continued learning
 - Based in **Bournemouth, UK**
