@@ -23,7 +23,14 @@ My work spans both software and infrastructure, from developing web and augmente
 ### Recently Updated Repositories
 
 <!-- RECENT-REPOS:START -->
-Repository activity will appear here after the updater's first run.
+| Repository | Description | Main language | Last pushed |
+|---|---|---|---|
+| [**proxmox-workstation-platform**](https://github.com/Beebop2727/proxmox-workstation-platform) | version 2 of my proxmox workstation for virtulisation and gaming | — | 2026-08-24 |
+| [**cybersecurity-portfolio-year**](https://github.com/Beebop2727/cybersecurity-portfolio-year) | my cybersecurity portfolio year | — | 2026-08-23 |
+| [**thunderscope-dashboard**](https://github.com/Beebop2727/thunderscope-dashboard) | Warthunder dashboard made clean using the data exposed via port 8111 | Python | 2026-08-18 |
+| [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | A mockup of a website used for an assignment | HTML | 2026-08-18 |
+| [**spotify-control-centre**](https://github.com/Beebop2727/spotify-control-centre) | No description yet. | JavaScript | 2026-08-02 |
+| [**huawei-matebook-16-linux**](https://github.com/Beebop2727/huawei-matebook-16-linux) | linux support for Huawei Matebook 16 | Shell | 2026-06-17 |
 <!-- RECENT-REPOS:END -->
 
 <sub>Automatically refreshed every day from my public GitHub repositories.</sub>
