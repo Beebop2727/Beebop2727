@@ -25,7 +25,7 @@ My work spans both software and infrastructure, from developing web and augmente
 <!-- RECENT-REPOS:START -->
 | Repository | Description | Main language | Last pushed |
 |---|---|---|---|
-| [**proxmox-workstation-platform**](https://github.com/Beebop2727/proxmox-workstation-platform) | version 2 of my proxmox workstation for virtulisation and gaming | — | 2026-08-25 |
+| [**proxmox-workstation-platform**](https://github.com/Beebop2727/proxmox-workstation-platform) | version 2 of my proxmox workstation for virtulisation and gaming | — | 2026-08-28 |
 | [**vast-shell-ubuntu**](https://github.com/Beebop2727/vast-shell-ubuntu) | WIP | QML | 2026-08-25 |
 | [**cybersecurity-portfolio-year**](https://github.com/Beebop2727/cybersecurity-portfolio-year) | my cybersecurity portfolio year | — | 2026-08-23 |
 | [**thunderscope-dashboard**](https://github.com/Beebop2727/thunderscope-dashboard) | Warthunder dashboard made clean using the data exposed via port 8111 | Python | 2026-08-18 |
