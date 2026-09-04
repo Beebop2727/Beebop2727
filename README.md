@@ -1,4 +1,3 @@
-````markdown
 # 👋 Welcome, I'm Harry
 
 **Cyber Security & Digital Forensics student at Bournemouth University**
@@ -180,4 +179,4 @@ Working through one project per month to build a public portfolio spanning hands
 
 > *"Security is a process, not a product." — Bruce Schneier*
 
-''''
+---
