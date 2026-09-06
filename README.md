@@ -35,10 +35,10 @@ I enjoy understanding how systems work, identifying where they can fail, and des
 |---|---|---|---|
 | [**cybersecurity-portfolio-year**](https://github.com/Beebop2727/cybersecurity-portfolio-year) | my cybersecurity portfolio year | — | 2026-09-04 |
 | [**proxmox-workstation-platform**](https://github.com/Beebop2727/proxmox-workstation-platform) | version 2 of my proxmox workstation for virtulisation and gaming | — | 2026-09-04 |
-| [**vast-shell-ubuntu**](https://github.com/Beebop2727/vast-shell-ubuntu) | WIP | QML | 2026-09-03 |
+| [**vast-shell-ubuntu**](https://github.com/Beebop2727/vast-shell-ubuntu) | WIP fork of vast-shell but rewired for ubuntu hyprland | QML | 2026-09-03 |
 | [**thunderscope-dashboard**](https://github.com/Beebop2727/thunderscope-dashboard) | Warthunder dashboard made clean using the data exposed via port 8111 | Python | 2026-08-18 |
 | [**WindyWaves-mockup-website**](https://github.com/Beebop2727/WindyWaves-mockup-website) | A mockup of a website used for an assignment | HTML | 2026-08-18 |
-| [**spotify-control-centre**](https://github.com/Beebop2727/spotify-control-centre) | No description yet. | JavaScript | 2026-08-02 |
+| [**spotify-control-centre**](https://github.com/Beebop2727/spotify-control-centre) | spotify control centre forked from two different repos, currently only compatible with Ubuntu | JavaScript | 2026-08-02 |
 <!-- RECENT-REPOS:END -->
 
 <sub>Automatically refreshed every day from my public GitHub repositories.</sub>
